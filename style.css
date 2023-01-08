@@ -1,0 +1,28 @@
+body {
+ 
+    margin: 0;
+    font-family:'Times New Roman', Times, serif
+  }
+
+.image1{
+
+    height: 750px;
+    background-position: center;
+    position: relative;
+    background-image: url('https://i.pinimg.com/564x/41/56/a4/4156a4b8e8c9aebe7934559e68c456bc.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+.text1{
+    margin-right: 50px;
+    text-align:right;
+    position:relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white
+}
+#navbarsExample08{
+    font-size: 30px;
+    
+}
